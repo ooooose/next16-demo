@@ -1,0 +1,14 @@
+.card {
+  /* TODO: カラーは適宜調整 */
+  background-color: blueviolet;
+  /* itemを中央揃えに */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* 大きさはデザイントークンがあればいい */
+  width: 40px;
+  height: 60px;
+  border-radius: 8px;
+
+  cursor: pointer;
+}
